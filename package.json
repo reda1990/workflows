@@ -2,5 +2,9 @@
   "name": "workflow",
   "version": "0.0.1",
   "description": "Project Gulp",
-  "author": "Reda"
+  "author": "Reda",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
