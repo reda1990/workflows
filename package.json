@@ -6,6 +6,10 @@
     "type": "git",
     "url": "https://github.com/reda1990/workflows.git"
   },
+  "scripts": {
+      "start": "node index.js",
+      "start_windows": "set NODE_ENV=production&&node index.js"
+  },
   "author": "Reda",
   "devDependencies": {
     "gulp": "^3.9.1",
